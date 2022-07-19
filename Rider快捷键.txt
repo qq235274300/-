@@ -1,0 +1,90 @@
+快速生成类
+Ctrl+/ 或 Ctrl+Shift+/ 注释
+Ctrl+J 智能缩写模板，很好用
+Ctrl+I 实现方法或者接口
+Ctrl+O 重写方法或者继承接口
+Ctrl+Shift+C 复制路径
+Ctrl+Alt+Shift+C 复制引用，必须选择类名
+Alt+Insert 生成构造函数，getter/setter方法，toString(),equals()和hashCode()等
+
+重构类
+F6 移动
+F5 复制
+Ctrl+Alt+Shift+T 重构
+Shift+F6 重构-重命名
+
+编辑类
+Ctrl+Alt+L 格式化代码
+Alt+鼠标左键 拉框即可列编辑
+Ctrl+Shift+J 合并行
+Ctrl+Delete 删除单词
+Ctrl+R 替换文本
+Ctrl+W 选中代码，连续按会扩大范围
+Ctrl+Shift+W 缩小范围
+Ctrl+Shift+U 大小写转化
+
+代码浏览辅助类
+Ctrl+F 查找文本
+Ctrl+Shift+F 全局查找文本
+F3/Shift+F3 前后移动到下一匹配处
+F2/Shift+F2 高亮错误或警告快速定位，上一个，下一个
+Alt+Up/Down 在方法间快速移动定位
+Ctrl++ 当前方法展开
+Ctrl+ - 当前方法折叠
+Ctrl+Shift+ + 全部展开
+Ctrl+Shift+ - 全部展开、折叠
+Ctrl+G 跳转定位行
+Ctrl+M 返回光标处
+Ctrl+B 查看定义
+Ctrl+Alt+Left/Right 返回至上次浏览的位置
+Ctrl+H 显示类结构图
+Alt+Shift+C 打开对比最近修改的代码
+Ctrl+Shift+Alt+N 查找类中的方法或变量
+Alt+F1 跳转代码文件各种所在位置
+
+标签操作辅助类
+F11 添加删除书签
+Shift+F11 显示书签
+Ctrl+Shift+Num 定义 0-9 书签 (再次按这组快捷键则是删除书签)，然后通过 Ctrl+Num 跳转
+Alt+1 快速打开或隐藏工程面板，其他有对应数字也可类似操作
+Alt+2 打开收藏面板
+Alt+6 打开TODO面板
+Ctrl+F4 关闭
+Shift+Click 关闭标签
+Ctrl+Tab 标签页切换
+Ctrl+Shift+F4 关闭活动选项卡
+Esc 返回编辑器
+Shift+Esc 关闭并返回编辑器
+Ctrl+Shift+F12 关闭或者恢复其他窗口
+Alt+Left/Right 左右标签跳转
+
+调试类
+Ctrl+F8 切换行断点
+Alt 点击想要查看的变量或者语句快速查看变量的值
+Alt+F8 debug时调出Evaluate Expression窗口来自行输入自定义的语句查看值
+F7 进入到代码
+Shift+F7 智能步入
+Alt+Shift+F7 强制步入
+F8 跳到下一步
+Shift+F8 步出，跳到下一个断点
+Alt+Shift+F8 强制步过
+F9 恢复程序
+kbd>Alt+F9 运行至光标处
+Ctrl+Alt+F9 强制运行至光标处
+Alt+F10 执行到断点
+
+万能方法
+Ctrl+Shift+A 查找菜单或者操作
+Shift+Shift 搜索任何东西，包括类、资源、配置项、方法等等
+
+shift + shift 搜索 可以搜索class
+alt enter 
+alt O 切换 .h .cpp
+ctrl+shift+f 全局文件查找
+alt + insert 添加定义
+ctrl+alt+l 代码对齐
+ctrl+点击 调到定义
+shift+F12查找引用
+rename ctrl+RR
+ctrl k f 代码整理
+ctrl k  c 注释 u取消
